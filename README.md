@@ -1,5 +1,5 @@
-[![Donate](https://img.shields.io/badge/donate-dyaka.com-red?style=plastic)](https://css_notes.dyaka.com/startpack)
 
+<<<<<<< HEAD
 
 // "gulp-sass": "^4.1.0",
 # Easy-webdev-startpack
@@ -34,3 +34,5 @@
 - живая перезагрузка при работе с PHP (совместно с openserver);
 
 ## Об ошибках, пожалуйста, сообщайте в [ишьюс](https://github.com/budfy/Easy-webdev-startpack/issues). Там же можно оставить свои предложения по функционалу сборки.
+=======
+>>>>>>> a6b000e7b7c152abd3f46d3ded3d0609fbe37616
