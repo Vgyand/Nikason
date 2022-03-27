@@ -1,0 +1,23 @@
+.masterBanner{
+    height: 600px;
+    text-align: center;
+    background: url('../../../img/masterBanner/masterBanner.webp');
+    transform: translate(0px,120px);
+    button{
+        background-color: #F6F6F6;
+        color: #4C6D77;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 150%;
+        font-family: OpenSans,sans-serif;
+        margin-top: 100px;
+    }
+}
+.masterBanner_title{
+    padding-top: 200px;
+    font-family:TenorSans, sans-serif;
+    font-size: 48px;
+    line-height: 150%;
+    color:var(--color_white);
+}
