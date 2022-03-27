@@ -2,7 +2,7 @@ const {
 	src,
 	dest
 } = require('gulp');
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const bulk = require('gulp-sass-bulk-importer');
 const prefixer = require('gulp-autoprefixer');
 const clean = require('gulp-clean-css');

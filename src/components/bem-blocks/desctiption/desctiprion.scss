@@ -1,0 +1,26 @@
+.description{
+    margin-top: 160px;
+    .description_title{
+        margin-bottom: 100px;
+        font-family: TenorSans,'sans-serif';
+        color:#57463A;
+        font-size: 48px;
+    }
+    .description_btn{
+        background-color: transparent;
+        color:var(--color_text);
+        border-bottom: 1px solid #715B4B;
+        width: 360px;
+    }
+}
+@media (max-width: 1024px) {
+    .description{
+        .description_btn{
+            background-color: transparent;
+            color:var(--color_text);
+            border-bottom: 1px solid #715B4B;
+            width: 300px;
+        }
+    }
+    
+}

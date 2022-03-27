@@ -1,0 +1,33 @@
+.service{
+    margin-top: 150px;
+    .service_title{
+        font-family: TenorSans,sans-serif;
+        font-size: 48px;
+        color: #57463A;
+        margin-bottom:100px;
+    }
+    .services{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 0px;
+        .services_image{
+            width: 100%;
+        }
+        .services_info{
+            padding: 50px;
+            margin:auto 0;
+            max-width: 539px;
+            .services_info__title{
+                font-family: TenorSans,'sans-serif';
+                font-style: normal;
+                font-weight: normal;
+                font-size: 24px;
+                line-height: 150%;
+                margin-bottom: 40px;
+            }
+            .services_info_subtitle{
+                margin-bottom: 55px;
+            }
+        }
+    }
+}
